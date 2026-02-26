@@ -1,0 +1,5 @@
+{
+  "name": "TextureGen AI",
+  "description": "AI-powered seamless tileable texture generator with PBR maps (Normal, Height, Metallic, AO).",
+  "requestFramePermissions": []
+}
